@@ -1,0 +1,29 @@
+_repo: Scurvy-Past-and-Present_40505
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hess, Alfred F.
+    alias: Hess, Alfred Fabian
+    birthdate: 1875
+    deathdate: 1933
+    gutenberg_agent_id: '40664'
+    url: http://www.gutenberg.org/2009/agents/40664
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Fabian_Hess
+description: ''
+gutenberg_issued: '2012-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40505'
+  lccn: '21000254'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scurvy'
+- !lcc 'RC'
+title: Scurvy, Past and Present
+url: http://www.gutenberg.org/ebooks/40505
