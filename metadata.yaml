@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40664
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Fabian_Hess
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40505#Scurvy-Past-and-Present
 gutenberg_issued: '2012-08-14'
 gutenberg_type: Text
 identifiers:
